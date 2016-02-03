@@ -1,0 +1,28 @@
+name: TechnoTone
+favicon: null
+layout_spectrum: 0.0777980771381408
+typography_spectrum: 0.5203312539961189
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9150591008365154
+  lightness: 0.9326802282594144
+  saturation: 0.08429493429139256
+  rhythmicContrast: 0.48302069981582463
+purpose: []
